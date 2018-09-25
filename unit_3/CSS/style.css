@@ -1,0 +1,39 @@
+body{
+	background-color: #FF89BC;
+}
+
+
+
+h1, p{
+	color: #2D00FF;
+}
+
+
+
+h1,p,li{
+	text-align: center;
+
+}
+
+
+p{
+	font-style: italic;
+}
+
+
+
+
+p{
+	font-size: 24px;
+}
+
+h1{
+	text-decoration: underline;
+}
+
+body{
+	text-align: center;
+}
+article{
+	background-color: blue;
+}
