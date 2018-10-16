@@ -1,0 +1,137 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=K2D');
+
+@import url('https://fonts.googleapis.com/css?family=Mali');
+
+
+
+body{
+	background-color: silver;
+}
+
+
+
+h1, p{
+	color: #2D00FF;
+}
+
+h1{
+	background-color: black;
+}
+
+
+h1,p,li{
+	text-align: center;
+
+}
+
+
+p{
+	font-style: italic;
+}
+
+
+
+
+p{
+	font-size: 24px;
+}
+
+h1{
+	text-decoration: underline;
+	font-family: 'K2D', san-serif;
+}
+
+body{
+	text-align: center;
+}
+
+
+li{
+	font-family: 'Mali', cursive;
+
+}
+
+header{
+	background-color: black;
+}
+
+nav{
+	background-color: #aaaaaa;
+	font-family: Arial, san-serif;
+}
+
+
+a {
+	background-color: red;
+	color: white;
+	text-decoration: none;
+	display: block;
+	float: left;
+	padding: 20px;
+	text-align: center;
+}
+
+aside{
+	background-color: pink;
+	border: 1px black solid;
+	
+}
+
+a:hover {
+	background-color: black;
+}
+
+
+footer{
+	background-color: #FF957E;
+	text-align: center;
+}
+
+div{
+	background-color: black;
+}
+
+
+
+#two_column{
+	background-color: black;
+	border: 1px black solid;
+	padding: 20px;
+	
+}
+
+#left {
+	background-color: yellow;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 30%;
+
+}
+
+#right{
+	background-color: turquoise;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 62%;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+
+#wrapper{
+	background-color: black;
+	border: 1px black solid
+	padding: 20px;
+	float: right;
+	width: 44%;
+}
